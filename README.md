@@ -1,6 +1,5 @@
 ### Hi there I'm Shivank 👋
 
-Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust...its quite the pain. 
 - 👯 I’m looking to collaborate on Web3 or ML projects.
 - 📫 How to reach me: xtremedev786@gmail.com
