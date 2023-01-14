@@ -13,5 +13,3 @@ In my free time, I like to spend time with my dog Bozzo, playing fetch and going
 If you have any projects that you think I would be interested in working on, feel free to reach out to me on GitHub. I am always open to new opportunities and collaborations. especially ML or Web3 stuff.
 
 peace <3
-
--->
